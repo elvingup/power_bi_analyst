@@ -1,0 +1,8 @@
+
+ID_Cliente,Nome do Cliente,Email do Cliente,Endereço do Cliente,Data de Nascimento,ID_Produto,Nome do Produto,Preço do Produto,Categoria do Produto,ID_Pedido,ID_Cliente,ID_Produto,Quantidade do Pedido,Data do Pedido
+1,João Silva,joao.silva@example.com,Rua das Flores, 123,01/01/1980,1,Camiseta,50.00,Vestuário,1,1,1,2,01/01/2024
+2,Maria Oliveira,maria.oliveira@example.com,Av. do Sol, 456,20/02/1990,2,Calça,100.00,Vestuário,2,2,3,1,02/02/2024
+3,Ana Santos,ana.santos@example.com,Praça da Lua, 789,30/03/2000,3,Tênis,200.00,Calçados,3,3,2,3,03/03/2024
+4,,,,4,,,,4,1,3,1,04/04/2024
+5,Pedro Souza,pedro.souza@example.com,Rua das Estrelas, 321,40/04/2010,5,4,4,2,05/05/2024
+
